@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I am currently working on designing and implementing the backend architecture for several key products using Golang.<br>👯 I am looking to collaborate on projects that involve creating scalable and efficient server-side systems.<br>🤝 I am looking for help in staying informed about the latest trends and innovations in the tech industry and expanding my knowledge of programming languages and frameworks.<br>🌱 I am currently learning about new technologies and approaches to improve my skills as a backend engineer.<br>💬 Ask me about my experience in programming languages and working on a wide range of projects.<br>⚡ Fun fact: In my free time, I enjoy staying active and healthy through activities like swimming.
 
+## 📃 Highlighted Portfolio:
+Golang: https://github.com/MicBun/go-activity-tracking-api, https://github.com/MicBun/MiniWalletExercise, https://github.com/MicBun/point-system, https://github.com/MicBun/UserTaskCRUD
+Python: https://github.com/MicBun/flask-rest-api-jwt-auth-mysql
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/michael.boentarman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/michaelbuntarman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MicBun) 
