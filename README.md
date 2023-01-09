@@ -6,7 +6,7 @@ Golang: https://github.com/MicBun/go-activity-tracking-api, https://github.com/M
 Python: https://github.com/MicBun/flask-rest-api-jwt-auth-mysql
 
 ## 🏵️ Live Demo Portfolio:
-Golang: https://tinyurl.com/MicBunGolang2023Portfolio
+Golang: https://tinyurl.com/MicBunGolang2023Portfolio <br />
 Python: https://tinyurl.com/MicBunPortfolioCRUD
 
 ## 🌐 Socials:
