@@ -2,7 +2,7 @@
 🔭 I am currently working on designing and implementing the backend architecture for several key products using Golang.<br>👯 I am looking to collaborate on projects that involve creating scalable and efficient server-side systems.<br>🤝 I am looking for help in staying informed about the latest trends and innovations in the tech industry and expanding my knowledge of programming languages and frameworks.<br>🌱 I am currently learning about new technologies and approaches to improve my skills as a backend engineer.<br>💬 Ask me about my experience in programming languages and working on a wide range of projects.<br>⚡ Fun fact: In my free time, I enjoy staying active and healthy through activities like swimming.
 
 ## 📃 Highlighted Portfolio:
-Golang: https://github.com/MicBun/go-activity-tracking-api, https://github.com/MicBun/MiniWalletExercise, https://github.com/MicBun/point-system, https://github.com/MicBun/UserTaskCRUD
+Golang: https://github.com/MicBun/go-activity-tracking-api, https://github.com/MicBun/MiniWalletExercise, https://github.com/MicBun/point-system, https://github.com/MicBun/UserTaskCRUD <br />
 Python: https://github.com/MicBun/flask-rest-api-jwt-auth-mysql
 
 
