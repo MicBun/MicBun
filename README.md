@@ -6,7 +6,7 @@ Golang: https://github.com/MicBun/go-100-coverage-docker-crud, https://github.co
 Python: https://github.com/MicBun/flask-rest-api-jwt-auth-mysql
 
 ## 🏵️ Live Demo Portfolio:
-Golang: https://tinyurl.com/MicBunFullCoverageGolang, https://tinyurl.com/MicBunGolang2023Portfolio, https://tinyurl.com/MicBunGolangToDo <br />
+Golang: https://tinyurl.com/MicBunFullCoverageGolang, https://tinyurl.com/MicBunGolang2023Portfolio, https://tinyurl.com/MicBunPokemon <br />
 Python: https://tinyurl.com/MicBunPortfolioCRUD
 
 ## 🌐 Socials:
