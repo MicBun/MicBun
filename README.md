@@ -8,7 +8,7 @@ Python: https://github.com/MicBun/flask-rest-api-jwt-auth-mysql
 
 ## 🏵️ Live Demo Portfolio:
 (NEW) Full-Stack (Golang + NextJs): https://tinyurl.com/MicBunFullStackGoNextJs2023 <br />
-Golang: https://tinyurl.com/MicBunFullCoverageGolang, https://tinyurl.com/MicBunPokemon <br />
+Golang: https://tinyurl.com/MicBunPokemon <br />
 Python: https://tinyurl.com/MicBunPortfolioCRUD
 
 ## 🌐 Socials:
